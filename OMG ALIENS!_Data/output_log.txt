@@ -1,0 +1,29 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 750M (ID=0xfe4)
+    Vendor:   NVIDIA
+    VRAM:     995 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\GitHub Repositories\OMG ALIENS!\OMG ALIENS!_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\GitHub Repositories\OMG ALIENS!\OMG ALIENS!_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\GitHub Repositories\OMG ALIENS!\OMG ALIENS!_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\GitHub Repositories\OMG ALIENS!\OMG ALIENS!_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\GitHub Repositories\OMG ALIENS!\OMG ALIENS!_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\GitHub Repositories\OMG ALIENS!\OMG ALIENS!_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\GitHub Repositories\OMG ALIENS!\OMG ALIENS!_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\GitHub Repositories\OMG ALIENS!\OMG ALIENS!_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\GitHub Repositories\OMG ALIENS!\OMG ALIENS!_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\GitHub Repositories\OMG ALIENS!\OMG ALIENS!_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\GitHub Repositories\OMG ALIENS!\OMG ALIENS!_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\GitHub Repositories\OMG ALIENS!\OMG ALIENS!_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\GitHub Repositories\OMG ALIENS!\OMG ALIENS!_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll (this message is harmless)
+Loading C:\GitHub Repositories\OMG ALIENS!\OMG ALIENS!_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll into Unity Child Domain
+- Completed reload, in  7.390 seconds
+Platform assembly: C:\GitHub Repositories\OMG ALIENS!\OMG ALIENS!_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\GitHub Repositories\OMG ALIENS!\OMG ALIENS!_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
