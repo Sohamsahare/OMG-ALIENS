@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 54c8a7e6b41f4234bb357a915fd22be6
+timeCreated: 1486792848
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 32
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 5Computers In Love
+  fontNames:
+  - 5Computers In Love
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 2
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
